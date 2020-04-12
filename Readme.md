@@ -7,4 +7,4 @@
 ![ScreenShot2](https://raw.githubusercontent.com/oguzzarci/NgnixLoadBalancerConf/master/screenshots/ss2.png)
 
 # How to Use
-=> [https://teknodice.com/](https://teknodice.com/ "www.teknodice.com")
+=> [https://teknodice.com/nginx-kullarak-load-balancer-yapimi/](https://teknodice.com/nginx-kullarak-load-balancer-yapimi/ "www.teknodice.com")
